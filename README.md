@@ -1,6 +1,6 @@
 # vite-react-mpa-example
 
-This is an example of multi page application using `React` and `Vite`, which includes router usage and packaging configurations.
+This is an example of mulbvnbvnbvnti page application using `React` and `Vite`, which includes router usage and packaging configurations.
 
 ## Usage
 
